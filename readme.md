@@ -10,6 +10,3 @@ cd C:\app\hello2
 git add .
 git commit -m "更新內容"
 git push
-git add .
-git commit -m "fix pwa icons"
-git push
